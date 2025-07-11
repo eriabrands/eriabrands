@@ -1,10 +1,12 @@
 <div align="center">
   <!-- Cover Banner -->
-  <img src="./images/eria_cover.png" alt="Eria Brands Cover" width="100%" />
-  <!-- Logo -->  
-  <img src="./images/eria_logo.png" alt="Eria Brands Logo" width="150" style="margin-top:-60px;" />
-  
-  <h1>Eria Brands 🦋</h1>
+  <img src="images/eria_cover.png" alt="Eria Brands Cover" width="100%" />
+
+  <!-- Title with Logo -->
+  <h1>
+    <img src="images/eria_logo.png" alt="Eria Brands Logo" width="48" style="vertical-align:middle; margin-right:8px;" />
+    Eria Brands
+  </h1>
   <p><em>Where Creativity Takes Flight</em></p>
 </div>
 
@@ -27,7 +29,7 @@
 Eria Brands is a Manila-based digital agency guiding brands through an **Evolution, Revolution, Ascension** journey. We craft human-centered experiences that leave a lasting impact.
 
 <p align="center">
-  <img src="./images/eria_logo%20svg.png" alt="Logo Glow" width="300" />
+  <img src="images/eria_logo_svg.png" alt="Logo Glow" width="300" />
 </p>
 
 ## 🎨 Core Services
