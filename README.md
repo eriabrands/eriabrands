@@ -4,7 +4,7 @@
 
   <!-- Title with Logo -->
   <h1>
-    <img src="images/eria_logo.png" alt="Eria Brands Logo" width="48" style="vertical-align:middle; margin-right:8px;" />
+    <img src="images/eria_logo_svg.png" alt="Eria Brands Logo" width="48" style="vertical-align:middle; margin-right:8px;" />
     Eria Brands
   </h1>
   <p><em>Where Creativity Takes Flight</em></p>
